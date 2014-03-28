@@ -1,0 +1,3 @@
+{
+  "xfvb-run view3dscene $in.wrl --screenshot 0 $out.png"
+}
